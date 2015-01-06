@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Library\LineSetting.cs">
+    <Files>
+      <File FileName="Assets\Exemple1\Exemple1.cs" Line="34" Column="18" />
+      <File FileName="Assets\Library\LineSetting.cs" Line="153" Column="19" />
+      <File FileName="Assets\Library\LineRoot.cs" Line="22" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
