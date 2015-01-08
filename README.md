@@ -1,4 +1,4 @@
-## MoeChart (萌圖表)
+## MoeChart (圖表)
 
 本 MoeChart 適用於 Unity 專案製作需要圖表部分
 
